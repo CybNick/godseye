@@ -33,7 +33,7 @@ Automatically runs 11 intelligence modules:
 ## 🚀 Installation (Kali Linux)
 
 ```bash
-git clone https://github.com/yourusername/godseye.git
+git clone https://github.com/CybNick/godseye.git
 cd godseye
 chmod +x install.sh
 sudo bash install.sh
